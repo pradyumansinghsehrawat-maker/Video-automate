@@ -1,0 +1,47 @@
+{
+  "alternative_history": {
+    "master_style": "epic alternate history, divergent timeline architecture, cinematic realism, rich atmospheric lighting, high-detail environments, documentary film style, sweeping historical scale, ultra-sharp textures, 35mm lens feel, muted warm tones",
+    "scene_template": "{description} in an alternate timeline. Show: {elements}. Style: epic alternate history documentary, dramatic atmospheric lighting, sweeping scale.",
+    "neg": "modern clothing, neon colors, warping, distorted faces, text, logos, futuristic tech unless specified, cartoonish look"
+  },
+  "medicine": {
+    "master_style": "medical illustration realism, clinical clean aesthetic, glowing biochemical diagrams, sterile lab lighting, molecular detail, educational visual clarity",
+    "scene_template": "{description} with molecular diagrams and clinical perspective. Show: {elements}. Style: clean medical visualization, soft blue-white lighting.",
+    "neg": "gore, blood, surgery close-ups, horror, distorted anatomy"
+  },
+  "future_mechanisms": {
+    "master_style": "ultra-futuristic engineered systems, high-tech cinematic realism, neon reflections, robotics, AI visualization, energy flows, advanced materials",
+    "scene_template": "{description} with {elements}. Shown as precision engineered futuristic tech. Style: cinematic blue tones, glowing interfaces.",
+    "neg": "steampunk, fantasy elements, low-tech, cartoon"
+  },
+  "ai_future": {
+    "master_style": "AI superintelligence visualization, digital neural networks, particle flows, cybernetic environments, glowing data streams",
+    "scene_template": "{description} visualized through neural networks and flowing data particles. Elements: {elements}. Style: glowing abstract geometry.",
+    "neg": "robots with faces, cartoon brain icons, childish symbols"
+  },
+  "economics": {
+    "master_style": "macro-economic cinematic visuals, cityscapes, financial indicators, documentary style, holographic charts, global trade visuals",
+    "scene_template": "{description} shown with global markets and supply-demand flows. Elements: {elements}. Style: cinematic economics documentary.",
+    "neg": "cartoon graphs, emojis, playful colors"
+  },
+  "stocks": {
+    "master_style": "stock market cinematic realism, wall street drama, red-green tickers, volatility visualizations, financial thriller style",
+    "scene_template": "{description} represented with market volatility. Elements: {elements}. Style: glowing tickers, dramatic shadows.",
+    "neg": "cartoon traders, children, pixar style"
+  },
+  "finance": {
+    "master_style": "modern finance aesthetics, wealth systems, banks, digital money flows, documentary financial clarity",
+    "scene_template": "{description} with digital banking networks and monetary flows. Elements: {elements}. Style: professional finance documentary.",
+    "neg": "cheap money icons, cartoon gold bars"
+  },
+  "hidden_patterns": {
+    "master_style": "abstract patterns, psychological symbolism, geometric fractals, introspective conceptual art",
+    "scene_template": "{description} visualized through geometric patterns. Elements: {elements}. Style: abstract psychology + math blending.",
+    "neg": "faces, cartoon shapes, distorted fractals"
+  },
+  "geopolitics": {
+    "master_style": "global geopolitics cinematic realism, moody tones, maps, satellite views, military tension, world analysis",
+    "scene_template": "{description} shown through maps, borders, shifts of power. Elements: {elements}. Style: cinematic geopolitical documentary.",
+    "neg": "country flags as main focus, propaganda imagery, cartoon soldiers"
+  }
+}
