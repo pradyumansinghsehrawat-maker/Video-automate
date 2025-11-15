@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+moviepy
+pillow
+numpy
+soundfile
+huggingface_hub
+tqdm
